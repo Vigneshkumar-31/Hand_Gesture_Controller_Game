@@ -1,1 +1,1 @@
-# Hand_Gesture_Controller_Game
+# Hand_Gesture_GameController
